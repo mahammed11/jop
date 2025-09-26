@@ -1,0 +1,8 @@
+# Ignore Windows system files
+AppData/
+
+# Ignore specific file causing error
+AppData/Local/Comms/UnistoreDB/USS.jtx
+
+# Ignore Adobe cache files
+AppData/Local/Adobe/
